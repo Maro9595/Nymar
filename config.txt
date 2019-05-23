@@ -1,0 +1,6 @@
+owner=550496316602580995
+prefix=k!
+game=k!help | Made By LuXy
+stayinchannel=true
+songinstatus=false
+token=NTgwODk5NzkxODgyNTUxMjk2.XOYu_w.bQITTegTwqzMmMl6F3uddWBVyDI
